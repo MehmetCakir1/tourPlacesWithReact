@@ -1,0 +1,12 @@
+@import "../../scss/reset","../../scss/variables";
+
+
+header{
+    .title{
+        color:$headerColor;
+        text-align: center;
+        padding: 1rem;
+        font-size: 3rem;
+        font-weight: 900;
+    }
+}
